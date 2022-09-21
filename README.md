@@ -4,8 +4,8 @@
 - ⚡ Fato divertido: Em um código simples, você sempre irá sair com mais conhecimentos do que imagina.
  
  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davialgarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadqreal&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancadqreal&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadqreal&layout=compact&langs_count=7&theme=jolly"/>
  <div>
   
 ![Snake animation](https://github.com/biancadqreal/biancadqreal/blob/output/github-contribution-grid-snake.svg)
